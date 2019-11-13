@@ -15,10 +15,10 @@ public class Problem1 {
 		// Use one statement to decrement the variable x by 1, then subtract it from variable
 		// total and store the result in variable total.
 		int total = 0;
-	    total = total---x;
+	    	total = total---x;
 		
 		// Calculate the remainder after q is divided by divisor, and assign the result to q.
-	    int q = 0;
+	    	int q = 0;
 		int divisor = 1;
 		q = q% divisor;
 		System.out.println(q);
